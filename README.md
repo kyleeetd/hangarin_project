@@ -24,3 +24,5 @@ Admin Dashboard (Django Admin)
 Fake Data Generator (optional with Faker)
 *Generate test Categories, Tasks, SubTasks, and Notes.
 *Useful for testing and demonstration.
+
+DEVELOPER: Obaredes, Kyle TD D.
